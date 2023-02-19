@@ -1,11 +1,13 @@
 ---
 date: '2017-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'January - June 2017'
-url: 'https://web.northeastern.edu/scout/'
+title: 'Industrial Analyst Intern'
+company: 'Soochew Securities'
+location: 'Shanghai, China'
+range: 'Jan - Mar 2020'
+url: 'https://www.dwzq.com.cn/'
 ---
 
-- Collaborated with a small team of student designers to spearhead a new brand and design system for Scout’s inaugural student-led design conference at Northeastern
-- Worked closely with designers and management team to develop, document, and manage the conference’s marketing website using Jekyll, Sass, and JavaScript
+- Establish and maintain a complete company database, use Excel to organize, summarize and analyze the massive order data of the subject company to help forecast the future business revenue of the subject company.
+- Provide research support for analysts. Conduct company and industry research by participating in industry summits, attending conference calls, interviewing company executives, and extensively scanning industry data.
+- Assist in completing an in-depth report on the environmental protection industry, and was responsible for industry space measurement and market landscape analysis.
+
