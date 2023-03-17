@@ -135,11 +135,11 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-            Hello! My name is Armstrong and I enjoy creating elegant products to create values for users. Besides, I have a solid background in big data and learning algorithms, which allows me to deliver quantifiable values based on AI power.
+            Hi there! I'm Armstrong, and my passion lies in creating elegant products that bring value to users. With a solid background in big data and learning algorithms, I have the ability to deliver measurable results through the power of AI.
             </p>
 
             <p>
-            My career journey started back in 2018. I’ve had the privilege of working at{' '}
+            My career journey began in 2018, and since then, I've had the opportunity to work with several industry leaders such as{' '}
 <a href="https://www.mcdonalds.com/">a restaurant giant</a>,{' '}
 <a href="https://www.intel.com">an IT giant</a>,{' '}
 <a href="https://www.dwzq.com.cn/">a research institute</a>, and{' '}
