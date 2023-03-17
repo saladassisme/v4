@@ -65,7 +65,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software product manager specializing in defining and designing toB products. Currently, I’m focused on creating iEMS and iBMS for next-generation smartgrid 
+        I’m a product manager specializing in delivering successful projects and empowering data-driven decision-making in the industrial and renewable energy sectors. Currently, I’m focused on creating iEMS and iBMS for next-generation smartgrid 
         at{' '}
         <a href="http://www.csg.com.cn/" target="_blank" rel="noreferrer">
           CSE        
