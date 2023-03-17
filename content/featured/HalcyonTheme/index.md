@@ -2,8 +2,8 @@
 date: '1'
 title: 'iBMS'
 cover: './bms.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+github: 'http://116.236.94.78:8089/login?redirect=%2Findex'
+external: 'http://116.236.94.78:8089/login?redirect=%2Findex'
 tech:
   - modao
   - Project

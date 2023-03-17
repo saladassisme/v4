@@ -2,8 +2,8 @@
 date: '2'
 title: 'EMS'
 cover: './ems.jpg'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+github: 'http://iot.yun.csgiiotplatform.com/'
+external: 'http://iot.yun.csgiiotplatform.com/'
 tech:
   - Axure
   - PRD

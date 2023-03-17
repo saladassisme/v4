@@ -2,8 +2,8 @@
 date: '3'
 title: 'Charging Pile Operation System'
 cover: './pp.jpg'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+external: 'https://www.csgtest.cn/charger/#/platformManagement'
+cta: 'https://www.csgtest.cn/charger/#/platformManagement'
 tech:
   - Figma
   - PRD
