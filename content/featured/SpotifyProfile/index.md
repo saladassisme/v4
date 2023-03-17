@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: 'EMS'
+title: 'iEMS'
 cover: './ems.jpg'
 github: 'http://iot.yun.csgiiotplatform.com/'
 external: 'http://iot.yun.csgiiotplatform.com/'
