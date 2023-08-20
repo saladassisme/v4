@@ -13,4 +13,4 @@ tech:
   - Python
 ---
 
-A powerful, reliable AI-driven battery management system designed for any storage battery scenarios. 
+A powerful, reliable AI-driven battery management system designed for any storage battery scenarios.

@@ -61,25 +61,22 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Armstrong.</h2>;
-  const three = <h3 className="big-heading">I define & create products.</h3>;
+  const three = <h3 className="big-heading">I drive innovation in energy solutions.</h3>;
   const four = (
     <>
       <p>
-        I’m a product manager specializing in delivering successful projects and empowering data-driven decision-making in the industrial and renewable energy sectors. Currently, I’m focused on creating iEMS and iBMS for next-generation smartgrid 
-        at{' '}
-        <a href="http://www.csg.com.cn/" target="_blank" rel="noreferrer">
-          CSE        
+        I'm a product innovator in the renewable energy and power sector, focusing on creating
+        advanced solutions. With{' '}
+        <a href="https://www.envision-group.com/" target="_blank" rel="noreferrer">
+          Envision
         </a>
-        .
+        , I contribute to cutting-edge products that redefine the energy landscape, shaping a
+        sustainable future.
       </p>
     </>
   );
   const five = (
-    <a
-      className="email-link"
-      href="https://blog.littlehuman.xyz/"
-      target="_blank"
-      rel="noreferrer">
+    <a className="email-link" href="https://blog.littlehuman.xyz/" target="_blank" rel="noreferrer">
       Check out my Blog!
     </a>
   );

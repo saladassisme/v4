@@ -7,7 +7,6 @@ range: 'Apr - Jul 2020'
 url: 'https://www.mcdonalds.com'
 ---
 
-- Monitor business indicators. 
+- Monitor business indicators.
 - Track daily campaign sales and identify data anomalies in a timely manner.
 - Complete 3+ tableau-based data kanban boards and 40+ ad-hoc data fetching requirements.
-

@@ -135,16 +135,21 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-            Hi there! I'm Armstrong, and my passion lies in creating elegant products that bring value to users. With a solid background in big data and learning algorithms, I have the ability to deliver measurable results through the power of AI.
+              Hi there! I'm Armstrong, and my passion lies in creating elegant products that bring
+              value to users. With a solid background in big data and learning algorithms, I have
+              the ability to deliver measurable results through the power of AI.
             </p>
 
             <p>
-            My career journey began in 2018, and since then, I've had the opportunity to work with several industry leaders such as{' '}
-<a href="https://www.mcdonalds.com/">a restaurant giant</a>,{' '}
-<a href="https://www.intel.com">an IT giant</a>,{' '}
-<a href="https://www.dwzq.com.cn/">a research institute</a>, and{' '}
-<a href="http://www.csg.com.cn/">a manufacturer corporation</a>. My main focus these days is building accessible, user-friendly and grid-friendly products at <a href="http://www.csg.com.cn/">CSE</a> for a variety of
- clients.
+              My career journey began in 2018, and since then, I've had the opportunity to work with
+              several industry leaders such as{' '}
+              <a href="https://www.mcdonalds.com/">a restaurant giant</a>,{' '}
+              <a href="https://www.intel.com">an IT giant</a>,{' '}
+              <a href="https://www.dwzq.com.cn/">a research institute</a>,{' '}
+              <a href="http://www.csg.com.cn/">a manufacturer corporation</a>,and{' '}
+              <a href="https://www.envision-group.com/">an eco-tech powerhouse</a>, . My main focus
+              these days is building accessible, user-friendly and grid-friendly products at{' '}
+              <a href="https://www.envision-group.com/">Envision</a> for a variety of clients.
             </p>
 
             <p>Here are a few skills I’ve been working with recently:</p>
