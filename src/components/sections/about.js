@@ -147,7 +147,7 @@ const About = () => {
               <a href="https://www.intel.com">an IT giant</a>,{' '}
               <a href="https://www.dwzq.com.cn/">a research institute</a>,{' '}
               <a href="http://www.csg.com.cn/">a manufacturer corporation</a>,and{' '}
-              <a href="https://www.envision-group.com/">an eco-tech powerhouse</a>, . My main focus
+              <a href="https://www.envision-group.com/">an eco-tech powerhouse</a> . My main focus
               these days is building accessible, user-friendly and grid-friendly products at{' '}
               <a href="https://www.envision-group.com/">Envision</a> for a variety of clients.
             </p>
